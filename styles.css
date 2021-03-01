@@ -1,0 +1,65 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: white;
+}
+
+.intro p {
+    color: black;
+}
+
+.title {
+    background-color: #a0bec9;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.intro {
+    font-size: 30px;
+}
+
+.Alfie {
+    background-color: #23addb;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+
+.Candi {
+    background-color: #546970;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+footer {
+    background-color: #000000;
+    font-family: sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+    position: relative;
+}
